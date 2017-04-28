@@ -20,11 +20,11 @@ Xvarsity is next generation ERP , Crawled and Parsed from Evarsity SRM.
 We uses a number of open source projects to work properly:
 
 
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Redis] - In-memory data structure store
-* [jQuery] - duh
+* Twitter Bootstrap - great UI boilerplate for modern web apps
+* node.js - evented I/O for the backend
+* Express - fast node.js network app framework [@tjholowaychuk]
+* Redis - In-memory data structure store
+* jQuery- duh
 
 
 
