@@ -43,4 +43,4 @@ $ redis-server
 $ node index.js
 ```
 ### Screenshots
-[![N|Main](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Main](https://github.com/Ayushverma8/Xvarsity/blob/master/major.png)](https://beta.srmuniv.me)
