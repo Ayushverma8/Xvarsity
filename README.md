@@ -46,4 +46,4 @@ $ node index.js
 [![N|Main](https://github.com/Ayushverma8/Xvarsity/blob/master/major.png)](https://beta.srmuniv.me)
 
 # Note of Thanks
-Much Thanks to Nihal (@nihalsh) for extended support for application :-)
+Much Thanks to Nihal (@nihalsh) and Nilesh Singh (NileshSinghSengar)  for extended support for application :-)
