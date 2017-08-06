@@ -7,7 +7,7 @@ Currently we are launching the beta version (as everything needs an update).. We
 beta.srmuniv.me
 
 # Why Xvarsity
-Xvarsity is next generation ERP , Crawled and Parsed from Evarsity SRM.
+Xvarsity is next generation ERP , Crawled and Parsed from Evarsity SRM. 
 
 
   - Soothing UI
