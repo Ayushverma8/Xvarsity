@@ -1,13 +1,13 @@
 # XVARSITY
-Hey guy.. Guess what?? 
-Got bored out of the old way of going through the Evarasity? We are there to help you out.. Here we present  *....... Drum Rolls.... *
-XVARSITY.... 
+Hey guy.. Guess what's up next!! 
+Got bored out of the old way of going through the Evarasity? We are there to help you out.. Here we present  *....... Drum Rolls......... *
+**XVARSITY** 
 It comes with new UI  i.e  great graphics,graphs and what not... 
 Currently we are launching the beta version (as everything needs an update).. We welcome all feedbacks... 
 beta.srmuniv.me
 
 # Why Xvarsity
-Xvarsity is next generation ERP , Crawled and Parsed from Evarsity SRM. 
+Xvarsity is next generation ERP , Crawled and Parsed from Evarsity SRM(the student portal). 
 
 
   - Soothing UI
@@ -17,7 +17,7 @@ Xvarsity is next generation ERP , Crawled and Parsed from Evarsity SRM.
 
 ### Tech
 
-We uses a number of open source projects to work properly:
+We uses a number of open source projects to work properly and efficiently:
 
 
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
